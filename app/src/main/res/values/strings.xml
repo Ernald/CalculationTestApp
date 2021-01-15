@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculationTestApp</string>
+    <string name="hint">Put a number :</string>
+    <string name="tip_percentage">Tip percentage</string>
+    <string name="show_tips" />
+    <string name="show_tip">Show tips</string>
+</resources>
